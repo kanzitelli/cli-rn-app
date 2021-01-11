@@ -1,0 +1,9 @@
+{
+  "name": "Cli RN App",
+  "displayName": "Cli RN App",
+  "expo": {
+    "name": "Cli RN App",
+    "slug": "cli-rn-app",
+    "sdkVersion": "40.0.0"
+  }
+}
